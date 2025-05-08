@@ -9,6 +9,20 @@ security_context_map = {
     "OA4F_SEC_FIN_AR_BUSINESSUNIT_LIST": "AR Business Units",
     "OA4F_SEC_CST_COST_ORG_LIST": "Cost Organizations",
     "OA4F_SEC_FIN_FA_ASSET_BOOK_LIST": "FA Asset Book",
+    "OA4F_SEC_HCM_BUSINESSUNIT_LIST": "HCM Business Units",
+    "OA4F_SEC_HCM_COUNTRY_LIST": "HCM Country List",
+    "OA4F_SEC_HCM_DEPARTMENT_LIST": "HCM Departments",
+    "OA4F_SEC_HCM_LEGAL_EMPLOYER_LIST": "HCM Legal Employers",
+    "OA4F_SEC_HCM_SEE_SELF_RECORD": "HCM Show Self Record",
+    "OA4F_SEC_INV_BUSINESSUNIT_LIST": "Inventory Business Units",
+    "OA4F_SEC_INV_ORG_TRANSACTIONS_LIST": "Inventory Organizations",
+    "OA4F_SEC_FIN_LEDGER_LIST": "Ledgers",
+    "OA4F_SEC_OM_BUSINESS_UNIT_LIST": "Order Management Business Units",
+    "OA4F_SEC_PPM_PROJECT_BUSINESSUNIT_LIST": "Project Business Units",
+    "OA4F_SEC_PPM_EXPENDITURE_BUSINESSUNIT_LIST": "Project Expenditure Business Units",
+    "OA4F_SEC_PPM_PROJECT_ORGANIZATION_LIST": "Project Organizations",
+    "OA4F_SEC_PROC_REQ_BUSINESSUNIT_LIST": "Requisition Business Units",
+    "OA4F_SEC_PROC_SPEND_PRC_BUSINESSUNIT_LIST": "Spend Procurement Business Units"
     # Add the rest here...
 }
 
